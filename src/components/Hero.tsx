@@ -1,5 +1,4 @@
 import { motion } from 'framer-motion';
-import { Link } from 'react-router-dom';
 import { Play, ShoppingBag } from 'lucide-react';
 import { Button } from './Button';
 
