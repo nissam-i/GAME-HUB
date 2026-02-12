@@ -26,4 +26,4 @@ If you are a developer and want to see how this works on your own machine:
 3.  **Start the app** (`npm run dev`) and open the link shown in your browser.
 
 ---
-*Created with passion by Nissam.*
+
